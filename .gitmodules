@@ -1,0 +1,18 @@
+[submodule "hexapod_common"]
+	path = hexapod_common
+	url = https://github.com/resibots/hexapod_common.git
+	branch = 54_controllers
+[submodule "hexapod_simu"]
+	path = hexapod_simu
+	url = https://github.com/resibots/hexapod_simu.git
+	branch = stairs_for_mlei
+[submodule "dart"]
+	path = dart
+	url = https://github.com/resibots/dart.git
+	branch = release-6.1
+[submodule "sferes2"]
+	path = sferes2
+	url = https://github.com/sferes2/sferes2.git
+[submodule "limbo"]
+	path = limbo
+	url = https://github.com/resibots/limbo.git
