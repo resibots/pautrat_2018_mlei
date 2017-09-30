@@ -18,9 +18,9 @@ git clone --recursive https://github.com/resibots/pautrat_2018_mlei.git
 
 #### Dependencies
 
-- [Boost]: C++ Template Libraries (http://www.boost.org)
-- [Eigen]: Linear Algebra C++ Library (http://eigen.tuxfamily.org/)
-- [realpath]: `sudo apt-get install realpath` (http://manpages.ubuntu.com/manpages/jaunty/man1/realpath.1.html)
+- [Boost]: C++ Template Libraries
+- [Eigen]: Linear Algebra C++ Library
+- [realpath]: `sudo apt-get install realpath`
 
 
 #### How to easily compile everything
@@ -82,3 +82,9 @@ sh clear_all.sh
 ## LICENSE
 
 [CeCILL]
+
+[CeCILL]: http://www.cecill.info/index.en.html
+[Boost]: http://www.boost.org
+[Eigen]: http://eigen.tuxfamily.org/
+[DART]: https://dartsim.github.io/
+[realpath]: http://manpages.ubuntu.com/manpages/jaunty/man1/realpath.1.html
