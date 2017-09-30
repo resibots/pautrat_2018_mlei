@@ -16,3 +16,4 @@
 [submodule "limbo"]
 	path = limbo
 	url = https://github.com/resibots/limbo.git
+	branch = release-1.0

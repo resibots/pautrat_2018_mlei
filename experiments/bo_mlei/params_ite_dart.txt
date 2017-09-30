@@ -1,0 +1,129 @@
+FILE: exp/ite_dart/launch_tests_new_env.cpp
+
+acqui_ei
+^^^^^^^^
+- double jitter = 0.0 [defined in exp/ite_dart/launch_tests_new_env.cpp][]
+
+kernel_squared_exp_ard
+^^^^^^^^^^^^^^^^^^^^^^
+- double sigma_sq = 1 [default value, from src/limbo/kernel/squared_exp_ard.hpp][]
+
+acqui_ucb
+^^^^^^^^^
+- double alpha = 0.5 [default value, from src/limbo/acqui/ucb.hpp][]
+
+opt_rprop
+^^^^^^^^^
+- int iterations = 300 [defined in exp/ite_dart/launch_tests_new_env.cpp][]
+
+bayes_opt_boptimizer
+^^^^^^^^^^^^^^^^^^^^
+- double noise = 0.00001 [defined in exp/ite_dart/launch_tests_new_env.cpp][]
+- int hp_period = 1 [defined in exp/ite_dart/launch_tests_new_env.cpp][]
+
+bayes_opt_bobase
+^^^^^^^^^^^^^^^^
+- int stats_enabled = true [defined in exp/ite_dart/launch_tests_new_env.cpp][]
+- bool bounded = true [defined in exp/ite_dart/launch_tests_new_env.cpp][]
+
+=========================================
+FILE: exp/ite_dart/launch_tests.cpp
+
+acqui_ucb
+^^^^^^^^^
+- double alpha = 0.5 [default value, from src/limbo/acqui/ucb.hpp][]
+
+kernel_squared_exp_ard
+^^^^^^^^^^^^^^^^^^^^^^
+- double sigma_sq = 1 [default value, from src/limbo/kernel/squared_exp_ard.hpp][]
+
+bayes_opt_boptimizer
+^^^^^^^^^^^^^^^^^^^^
+- double noise = 0.00001 [defined in exp/ite_dart/launch_tests.cpp][]
+- int hp_period = -1 [default value, from src/limbo/bayes_opt/boptimizer.hpp][]
+
+bayes_opt_bobase
+^^^^^^^^^^^^^^^^
+- int stats_enabled = true [defined in exp/ite_dart/launch_tests.cpp][]
+- bool bounded = true [defined in exp/ite_dart/launch_tests.cpp][]
+
+=========================================
+FILE: exp/ite_dart/launch_tests_new_env_cluster.cpp
+
+acqui_ei
+^^^^^^^^
+- double jitter = 0.1 [defined in exp/ite_dart/launch_tests_new_env_cluster.cpp][]
+
+kernel_squared_exp_ard
+^^^^^^^^^^^^^^^^^^^^^^
+- double sigma_sq = 1 [default value, from src/limbo/kernel/squared_exp_ard.hpp][]
+
+acqui_ucb
+^^^^^^^^^
+- double alpha = 0.5 [default value, from src/limbo/acqui/ucb.hpp][]
+
+opt_rprop
+^^^^^^^^^
+- int iterations = 300 [defined in exp/ite_dart/launch_tests_new_env_cluster.cpp][]
+
+bayes_opt_boptimizer
+^^^^^^^^^^^^^^^^^^^^
+- double noise = 0.00001 [defined in exp/ite_dart/launch_tests_new_env_cluster.cpp][]
+- int hp_period = 1 [defined in exp/ite_dart/launch_tests_new_env_cluster.cpp][]
+
+bayes_opt_bobase
+^^^^^^^^^^^^^^^^
+- int stats_enabled = true [defined in exp/ite_dart/launch_tests_new_env_cluster.cpp][]
+- bool bounded = true [defined in exp/ite_dart/launch_tests_new_env_cluster.cpp][]
+
+=========================================
+FILE: exp/ite_dart/hexa_bomean.cpp
+
+acqui_ucb
+^^^^^^^^^
+- double alpha = 0.5 [default value, from src/limbo/acqui/ucb.hpp][]
+
+kernel_squared_exp_ard
+^^^^^^^^^^^^^^^^^^^^^^
+- double sigma_sq = 1 [default value, from src/limbo/kernel/squared_exp_ard.hpp][]
+
+bayes_opt_boptimizer
+^^^^^^^^^^^^^^^^^^^^
+- double noise = 0.00001 [defined in exp/ite_dart/hexa_bomean.cpp][]
+- int hp_period = -1 [default value, from src/limbo/bayes_opt/boptimizer.hpp][]
+
+bayes_opt_bobase
+^^^^^^^^^^^^^^^^
+- int stats_enabled = true [defined in exp/ite_dart/hexa_bomean.cpp][]
+- bool bounded = true [defined in exp/ite_dart/hexa_bomean.cpp][]
+
+=========================================
+FILE: exp/ite_dart/hexa_bomean_new_env.cpp
+
+acqui_ei
+^^^^^^^^
+- double jitter = 0.0 [defined in exp/ite_dart/hexa_bomean_new_env.cpp][]
+
+kernel_squared_exp_ard
+^^^^^^^^^^^^^^^^^^^^^^
+- double sigma_sq = 1 [default value, from src/limbo/kernel/squared_exp_ard.hpp][]
+
+acqui_ucb
+^^^^^^^^^
+- double alpha = 0.5 [default value, from src/limbo/acqui/ucb.hpp][]
+
+opt_rprop
+^^^^^^^^^
+- int iterations = 300 [defined in exp/ite_dart/hexa_bomean_new_env.cpp][]
+
+bayes_opt_boptimizer
+^^^^^^^^^^^^^^^^^^^^
+- double noise = 0.00001 [defined in exp/ite_dart/hexa_bomean_new_env.cpp][]
+- int hp_period = 1 [defined in exp/ite_dart/hexa_bomean_new_env.cpp][]
+
+bayes_opt_bobase
+^^^^^^^^^^^^^^^^
+- int stats_enabled = true [defined in exp/ite_dart/hexa_bomean_new_env.cpp][]
+- bool bounded = true [defined in exp/ite_dart/hexa_bomean_new_env.cpp][]
+
+=========================================
